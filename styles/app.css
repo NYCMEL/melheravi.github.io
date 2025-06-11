@@ -6,3 +6,10 @@
     background:#f0f0f0;
 
 }
+
+#video {
+    background:#000;
+    width:100%;
+    height:auto;
+    margin-top:auto
+}
