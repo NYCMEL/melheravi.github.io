@@ -13,9 +13,13 @@ body {
 }
 
 /* Container layout */
-.container {
+.container{
     display: flex;
     min-height: 100vh;
+    min-width: 100%;
+}
+
+.content {
     min-width: 100%;
 }
 
@@ -111,7 +115,6 @@ h5 {
     padding: 50px;
     flex: 1;
     width: 100%;
-    border:5px lime solid;
 }
 
 .content {
